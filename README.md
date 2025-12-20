@@ -10,7 +10,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/UniMarket.git
+git clone https://github.com/soliyev23/UniMarket
 cd UniMarket
 python -m venv venv
 venv\Scripts\activate  # Windows
